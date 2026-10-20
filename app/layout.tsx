@@ -1,0 +1,3 @@
+import type { Metadata } from "next";import "./globals.css";
+export const metadata:Metadata={metadataBase:new URL("https://your-community.example"),title:"What should we build for Sacramento?",description:"Local project ideas. Your lived experience. Help Jackson choose what to build at Hack for Humanity, or suggest an idea of your own.",openGraph:{title:"What should we build for Sacramento?",description:"Explore community ideas, vote for the most useful, or suggest a local problem worth working on.",type:"website"},icons:{icon:"/community-mark.svg"}};
+export default function Layout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}<script src="/analytics.js" defer /></body></html>}
