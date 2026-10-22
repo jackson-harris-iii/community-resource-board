@@ -1,3 +1,5 @@
+> **Latest source:** [Idea Hub](https://github.com/jackson-harris-iii/idea-hub) · [Sacramento edition](https://github.com/jackson-harris-iii/ideahub-sac) · [Community projects](https://github.com/jackson-harris-iii/idea-hub-projects). This repository preserves the original prototype. The live board is now [ideahubsac.org](https://ideahubsac.org).
+
 # Community Resource Board
 
 Open-source scaffold for turning community ideas into proposed solutions, resource offers and funding conversations. No participant account is needed for the demo; an owner reviews everything before publication.
